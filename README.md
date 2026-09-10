@@ -12,7 +12,7 @@
 
 </div>
 
-<h3 align="center">Full-Stack Developer • BCA Student • Building things that actually ship</h3>
+<h3 align="center">Aspiring Data Analyst • BCA Student • Building things that actually ship</h3>
 
 <p align="center">
 I'm Harsh Chauhan, a BCA student graduating in 2026, currently sharpening my full-stack skills and building a portfolio of real, deployed projects rather than tutorial clones. I like taking an idea from a rough sketch to something working end-to-end — frontend, backend, and the AI/automation layer in between.
